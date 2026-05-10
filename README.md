@@ -1,3 +1,2 @@
-Full wave bridge rectifier
---------------------------
+Learn Electronics
 --------------------------
