@@ -25,8 +25,8 @@ AC to stable DC conversion learning — understand the basic concept of real pow
 
 | Component          | Value/Spec              | Purpose |
 |--------------------|-------------------------|--------|
-| Transformer        | 12V AC, 500mA+         | Step down AC |
-| Bridge Rectifier   | BR1 (or 4x 1N4007)     | Full wave rectification |
+| Transformer        | 220V-12V AC, 600mA     | Center tap step down AC |
+| Bridge Rectifier   | 4x 1N4007              | Full wave rectification |
 | Capacitor C1       | 2.2mF (2200µF)         | Main smoothing filter |
 | Resistor R1        | 1kΩ                    | Bleeder resistor |
 | Capacitor C2       | 100µF                  | Input to regulator |
